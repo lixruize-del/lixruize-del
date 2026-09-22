@@ -6,6 +6,8 @@
   <img alt="Video & World Models" src="https://img.shields.io/badge/Interest-Video_%26_World_Models-16836B?style=flat-square" />
 </p>
 
+📄 [Curriculum Vitae](https://github.com/lixruize/lixruize/blob/main/assets/Ruize_Li_CV.pdf)
+
 > **Undergraduate researcher interested in multimodal and generative AI.**
 
 I am an undergraduate at **Nanjing University**, enrolled in a dual-degree program with the **University of Helsinki**, graduating in 2027.
