@@ -35,7 +35,7 @@ I am interested in building learning systems that can **understand, predict, and
 **Ruize Li**<sup>*</sup>, Zhibin Wen<sup>*</sup>, Tao Han<sup>*</sup>, Hao Chen, Fenghua Ling, Wei Zhang, Song Guo, Lei Bai  
 <sup>*</sup> Equal contribution.
 
-**arXiv:2605.24945 · Under Review**
+**arXiv:2605.24945**
 
 <p align="left">
   <a href="https://arxiv.org/abs/2605.24945">
